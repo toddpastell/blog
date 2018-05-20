@@ -1,0 +1,11 @@
+---
+layout: main
+---
+<section class="section">
+  <div class="container">
+    <h2 class="title is-2">Posts about <span class="tag is-large">{{ page.tag }}</span></h2>
+    {% for post in site.tags[page.tag] %}
+    {% include post-item.html post=post %}
+    {% endfor %}      
+  </div>
+</section>

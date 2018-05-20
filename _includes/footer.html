@@ -1,0 +1,14 @@
+<footer class="footer">
+  <div class="container">
+    <div class="menu">
+      <p class="menu-label">Posts by Tag</p>
+      <ul class="menu-list">
+        {% for tags in site.tags %}
+        {% assign tag = tags | first %}
+        {% assign slug = tag | slugify %}
+        <li><a href="{{ 'tag/' | append: slug | relative_url }}">{{ tag }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</footer>

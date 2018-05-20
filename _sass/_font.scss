@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway|Rock+Salt');
+
+$family-raleway: 'Raleway', sans-serif;
+$family-rock-salt: 'Rock Salt', cursive;
+
+$family-primary: $family-raleway;
+$family-cursive: $family-rock-salt;
+
+.is-cursive {
+  font-family: $family-cursive;
+}

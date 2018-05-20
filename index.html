@@ -1,0 +1,22 @@
+---
+layout: main
+---
+<section class="hero">
+  <div class="hero-body">
+    <div class="container has-text-centered">
+      <h1 class="title is-1 is-cursive">
+        {{ site.title }}
+      </h1>
+      <h2 class="subtitle is-3">
+        welcome to my blog
+      </h2>
+    </div>
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+  {% for post in site.posts %}
+  {% include post-item.html post=post %}
+  {% endfor %}
+  </div>
+</section>

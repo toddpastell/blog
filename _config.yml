@@ -1,0 +1,7 @@
+sass:
+  style: compressed
+permalink: /:title/
+
+# site variables
+title: 'Blog!'
+date_format: '%b %-d, %Y'

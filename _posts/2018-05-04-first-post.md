@@ -1,0 +1,15 @@
+---
+layout: post
+tags: [life]
+---
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula, mi ac suscipit sagittis, dui erat congue lacus, et molestie tellus massa vitae enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vitae commodo ipsum. Donec gravida, purus id sollicitudin porta, enim quam semper orci, quis sodales nibh orci sed libero. Etiam pulvinar, neque eu congue luctus, odio urna volutpat neque, vitae lobortis nibh diam at orci. In quis ante eget nibh efficitur finibus nec sed mi. Duis pellentesque dui augue, id feugiat enim gravida a.
+
+{% include image.html src="assets/img/nature-mountain-volcano-asia.jpg" alt="Volcano" caption="A sample image of a volcano." %}
+
+Ut sed nibh fermentum, egestas mauris nec, ornare nisi. Nunc fermentum mollis nulla et pharetra. Donec ac dolor et sem suscipit pulvinar. Suspendisse eget augue mi. Aenean nibh ex, rutrum et lorem commodo, accumsan tincidunt leo. Nulla volutpat eget augue a vestibulum. Morbi turpis nibh, tempus scelerisque placerat sed, scelerisque vel ante. Aliquam eget volutpat ligula. Quisque ut lorem molestie, pharetra libero ut, venenatis augue. Integer tempus ante gravida diam malesuada finibus. Fusce scelerisque suscipit pretium. Sed sed odio eleifend, feugiat quam eu, mattis lorem. Maecenas venenatis at magna sit amet bibendum. Mauris viverra ac odio sed auctor. Fusce eget ex posuere, lobortis lectus vitae, cursus odio.
+
+Nullam porttitor quam est, eget consequat orci faucibus in. Nunc sollicitudin rhoncus sollicitudin. Aliquam at est et tortor sodales ornare eget eu quam. Fusce sed pretium tortor. Fusce eget libero et ex porttitor sagittis. Ut sit amet enim eu lectus blandit dignissim at sit amet diam. Aliquam erat volutpat. Pellentesque dapibus at turpis aliquet varius. Mauris iaculis non nisi quis eleifend. Fusce faucibus egestas tortor, consectetur fringilla eros vulputate in. Donec magna lacus, eleifend quis egestas et, aliquet eget est.
+
+Cras sed bibendum diam. Sed lacinia, lorem sit amet sagittis feugiat, velit tellus luctus risus, vel accumsan mauris lacus vel est. Aenean posuere lobortis neque, et vehicula neque bibendum sit amet. Morbi blandit pretium justo non ullamcorper. Fusce tincidunt egestas nunc, in porta nisl. Aenean placerat sollicitudin felis in iaculis. Nullam nec diam ac eros dignissim commodo.
+
+Vestibulum lobortis efficitur lacus, vel fermentum lorem. Donec non sodales sem. Proin in odio nisi. Donec ultricies aliquet ipsum, id sagittis augue rutrum a. Sed blandit viverra erat, sed commodo erat suscipit ut. Phasellus dolor tellus, lacinia nec egestas vitae, rhoncus at risus. Vestibulum varius urna in tortor cursus consequat. Morbi eget massa diam. Nam mattis lacus nec pharetra sollicitudin. Etiam lorem purus, auctor quis accumsan aliquet, auctor at quam. Nulla diam ex, condimentum sit amet nunc eu, malesuada malesuada elit. Maecenas a ligula sit amet felis rhoncus pellentesque eu quis mi. Nullam rhoncus cursus arcu et accumsan. Nullam et erat eget lacus pellentesque lacinia at et odio.
